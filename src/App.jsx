@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
+import reactLogo from '/logo_amikom_full_color.png'
 import viteLogo from '/vite.svg'
 import './App.css'
 
@@ -16,10 +16,10 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Atilia Dhaffazra Hermawan - 21.11.4243
-        Muhammad Rizky Febrianto - 21.11.4222
-        Mohammad Dwi Turangga Lazuardi - 21.11.4209
-      </h1>
+      <h3>Atilia Dhaffazra Hermawan - 21.11.4243</h3>
+      <h3>Muhammad Rizky Febrianto - 21.11.4222</h3>
+      <h3>Mohammad Dwi Turangga Lazuardi - 21.11.4209</h3>
+      
     </>
   )
 }
